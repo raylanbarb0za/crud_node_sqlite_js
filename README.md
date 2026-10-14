@@ -10,7 +10,6 @@ O projeto implementa o gerenciamento de produtos, permitindo cadastrar, consulta
 - **Express** — framework para criação do servidor e das rotas HTTP.
 - **JavaScript** — linguagem utilizada no desenvolvimento da aplicação.
 - **SQLite** — banco de dados relacional para armazenamento dos produtos.
-- **SQL** — linguagem utilizada para manipulação dos dados.
 
 ##  Funcionalidades
 
